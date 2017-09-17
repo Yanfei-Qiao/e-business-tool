@@ -23,7 +23,7 @@ for(let i = 0; i < links.length; i++){
 	    });  
 	    req.on('end',function(){
 	    	var pos = html.indexOf("out-of-stock")
-	    	console.log(pos)
+	    	// console.log(pos)
 	    	if(pos<0){
 	    		result2s.push(links[i]);
 	    		let newdir = './downImg/' + links[i];
