@@ -1,5 +1,5 @@
 # e-business-tool
-A tool to check if a product is offline and download the images of the products.
+A tool to check if a product is off shelves and download the images of the products.
 
 Now It is only targeted for http://gz.17zwd.com
 
